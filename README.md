@@ -1,5 +1,5 @@
-**bootstrap-layout-exercise**
+**BOOTSTRAP-TEMPLATE-EXERCISE**
 
-Design take it from
+Design inspiration from:
 
 https://themeforest.net/item/meipaly-digital-services-agency-psd-template/22910047
