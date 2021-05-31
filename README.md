@@ -1,5 +1,6 @@
-**BOOTSTRAP-TEMPLATE-EXERCISE**
+#### CLONE LAYOUT FROM 
 
-Design inspiration from:
-
+inspiration taked from 
 https://themeforest.net/item/meipaly-digital-services-agency-psd-template/22910047
+
+
