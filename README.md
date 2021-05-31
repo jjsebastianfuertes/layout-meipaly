@@ -3,7 +3,7 @@
 🌄 inspiration taked from 
 https://themeforest.net/item/meipaly-digital-services-agency-psd-template/22910047
 
-Checkout the website -> [here](https://jjsebastianfuertes.github.io/bootstrap-layout-exercise/#about)
+Checkout the website -> [here](https://jjsebastianfuertes.github.io/layout-meipaly/)
 
 
 ## MOBILE VERSION 📱
